@@ -1,0 +1,70 @@
+/* COGS 187A coding assignment 1 - index.css */
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	font-family: 'Dosis', sans-serif;
+	text-align: center;
+	margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+h2 {
+	font-family: 'Dosis', sans-serif;
+}
+
+h3 {
+	font-style: italic;
+}
+
+hr {
+	opacity: 0.5;
+}
+
+/*
+.topnav {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20pt;
+	height: 90px; 
+	width: 100%;
+	background-color: #D8D8D8;
+	padding: 0;
+	float: top;
+}
+*/
+
+.notnav {
+	position: relative;
+}
+
+.box {
+	position: relative;
+	left: 5%;
+	width: 45%;
+	opacity: 50;
+
+}
+
+#contact {
+	text-align: center;
+}
+
+#about {
+	width: 60%;
+	padding-left: 20%;
+	text-align: center;
+}
+
+#education {
+	background-color: #ee3e64;
+}
+
+#experience {
+	background-color: #44accf;
+}
+
+#additional {
+	background-color: #b7d84b;
+}
