@@ -1,0 +1,10 @@
+/* COGS 187A coding assignment 1 - index.css */
+
+body {
+	font-family: 'Helvetica', sans-serif;
+	font-size: 48;
+}
+
+hr {
+	opacity: 0.5;
+}
