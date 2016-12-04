@@ -11,6 +11,14 @@ a {
 	text-decoration: none;
 }
 
+h1 {
+	padding-left: 10px;
+}
+
+h3 {
+	padding-left: 5px;
+}
+
 .content {
 	position: relative;
 	padding-top: 80px;
