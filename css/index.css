@@ -6,20 +6,20 @@ hr {
 
 .project {
 	position: relative;
-	left: 40px;
+	padding: 20px 0px 20px 0px;
 	width: 80%;
-	height: 300px;
 	/* background-color: #e3d456; */
 }
 
 .project-content {
-	position: absolute;
-	height: 260px;
+	font-size: 1.2em;
+	position: relative;
 	min-width: 100%;
 	top: 20px;
 	left: 20px;
 	background-color: #D8D8D8;
 	z-index: 0;
+	padding: 20px 0px 10px 20px;
 }
 
 .project-title {
@@ -33,34 +33,14 @@ hr {
 }
 
 .project-shit {
-	position: relative;
 	vertical-align: top;
 	margin: 10px;
 	display: inline-block;
-	background-color: yellow;
-	min-width: 45%;
+	/* background-color: yellow; */
+	width: 45%;
 }
 
-/* 
-.project-left {
-	position: relative; 
-	float: left;
-	top: 40px;
-	left: 20px;
-	height: 200px;
-	width: 40%;
-}
-
-.project-right {
+.project-shit img {
 	position: relative;
-	float: right;
-	top: 40px;
-	right: 20px;
-	height: 200px;
-	width: 50%;
-} */
-
-.project-image {
-	position: relative;
-	height: 200px;
+	width: 100%;
 }

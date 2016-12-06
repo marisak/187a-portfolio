@@ -49,8 +49,7 @@
 .project-page-subcontent {
 	position: relative;
 	background-color: #446CB3;
-	margin-top: 20px;
-	margin-left: 20px;
+	margin: 10px 0px 10px 20px;
 	width: 80%;
 	/*height: auto; */
 	/*min-height: 200px;*/

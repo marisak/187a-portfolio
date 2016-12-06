@@ -33,13 +33,12 @@ h3 {
 }
 
 .topnav {
-	background-color: #52B3D9;
+	background-color: #D8D8D8;
 	padding: 10px 0;
 	width: 100%;
 	height: 40px;
 	position: fixed;
 	top: 0;
-	border-bottom: 1px solid #C8C8C8;
 	z-index: 4;
 }
 
@@ -80,7 +79,8 @@ h3 {
 }
 
 .footer {
-	height: 10%;
+	position: absolute;
+	height: 20px;
 	background-color: #D8D8D8;
 	bottom: 0;
 }
