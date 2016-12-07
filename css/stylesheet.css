@@ -27,6 +27,12 @@ h3 {
 	font-size: 1.9rem;
 }
 
+h5 {
+	display: inline;
+	font-size: 1.5rem;
+	font-style: italic;
+}
+
 .content {
 	position: relative;
 	padding-top: 80px;
@@ -79,8 +85,9 @@ h3 {
 }
 
 .footer {
-	position: absolute;
 	height: 20px;
 	background-color: #D8D8D8;
 	bottom: 0;
+	margin-top: 20px;
+	padding: 5px;
 }
